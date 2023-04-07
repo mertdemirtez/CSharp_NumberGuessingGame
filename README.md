@@ -8,12 +8,15 @@ Computer Engineering 2nd year Studies
  
 ⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
 
+![Ekran görüntüsü 2023-04-07 180619](https://user-images.githubusercontent.com/101717064/230632073-0e269b22-22f1-4e1b-b737-ff52acb6ec95.png)
 
-![Ekran görüntüsü 2023-04-07 154706](https://user-images.githubusercontent.com/101717064/230611788-b5fb2c0a-911e-448a-8109-9846f9b06140.png)
+![Ekran görüntüsü 2023-04-07 180535](https://user-images.githubusercontent.com/101717064/230632078-a55ec5f9-db28-4bbe-b559-b70ecd3e7ef7.png)
 
-![Ekran görüntüsü 2023-04-07 154741](https://user-images.githubusercontent.com/101717064/230611792-70f76a32-aa73-459c-8e59-81a6b209ba2e.png)
+![Ekran görüntüsü 2023-04-07 180655](https://user-images.githubusercontent.com/101717064/230632082-3df026ad-721b-4910-ac0e-8cb4e9a2c1bc.png)
 
-![Ekran görüntüsü 2023-04-07 154820](https://user-images.githubusercontent.com/101717064/230611797-9408b5da-2e93-4843-be5f-1faf5a67977b.png)
+![Ekran görüntüsü 2023-04-07 180845](https://user-images.githubusercontent.com/101717064/230632089-1fd22941-7699-46e6-88a8-3cc05cb4e514.png)
+
+
 
 # 🅲🅾🅽🆃🅰🅲🆃 🅵🅾🆁 🅼🅴
 -My personal website is: www.mertdemirtez.com
