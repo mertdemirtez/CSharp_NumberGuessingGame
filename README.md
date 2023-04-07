@@ -1,6 +1,6 @@
 # Number Guessing Game - 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝓶𝓮𝓻𝓽 𝓭𝓮𝓶𝓲𝓻
  
-ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ 𝟸ɴᴅ ʏᴇᴀʀ ᴇɴᴅ ᴏғ ᴛᴇʀᴍ ᴘʀᴏᴊᴇᴄᴛ
+Computer Engineering 2nd year Studies
  
 ⭐ This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student. ⭐
 
