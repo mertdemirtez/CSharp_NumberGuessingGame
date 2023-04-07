@@ -4,7 +4,7 @@ Computer Engineering 2nd year Studies
  
 ⭐ This GitHub repository contains some of the projects that I worked on when I was a sophomore computer engineering student. ⭐
 
-⭐ This project was developed in about 15 minutes. ⭐
+⭐ This project was developed in about 30 minutes. ⭐
  
 ⭐ You can also contribute to and support this project. Have a nice day, everyone! ⭐
 
