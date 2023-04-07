@@ -1,0 +1,11 @@
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Form1.resources
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Properties.Resources.resources
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\mertd\OneDrive\Belgeler\C#\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
